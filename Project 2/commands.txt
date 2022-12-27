@@ -1,0 +1,9 @@
+gcc teller.c -o teller
+gcc hall.c -o hall
+gcc metal_detector.c -o metal_detector
+gcc police_officer.c -o police_officer
+gcc rolling_gate.c -o rolling_gate
+gcc person.c -o person
+gcc people_generated.c -o people_generated
+gcc parent.c -o parent -lglut -lGLU -lGL -lm
+./parent

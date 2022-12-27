@@ -1,0 +1,4 @@
+# ninja log v5
+1	626	1671205099800034879	CMakeFiles/Real_Time.dir/Project_1/child.c.o	364381113e8590d6
+2	723	1671205100030407283	CMakeFiles/Real_Time.dir/Project_1/parent.c.o	3a37dfba8b9425
+2	186	1671205140766126510	CMakeFiles/Real_Time.dir/Project_2/parent.c.o	2890045a466e276b

@@ -1,0 +1,7 @@
+Max num of people = 200
+Gate size = 20
+Hall size = 20
+Number of offices of each type = 2
+Anger maximum number = 20
+Satisfied maximum number = 20
+Unhappy maximum number = 20
